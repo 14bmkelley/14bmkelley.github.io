@@ -7,9 +7,7 @@
 </head>
 
 <body>
-	<div id="body">
-		<h1>Welcome to my website</h1>
-		<p>It has lots of words and stuff</p>
-	</div>
+	<h1>Welcome to my website</h1>
+	<p>It has lots of words and stuff</p>
 </body>
 </html>

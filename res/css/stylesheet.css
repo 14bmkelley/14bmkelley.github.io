@@ -1,0 +1,23 @@
+h1, h2, h3, h4, div, span, ol, ul, li, p {
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	margin: 0.5em;
+	font-size: 30em;
+	color: #FF0000;
+}
+
+p {
+	margin: 0.5em;
+	font-size: 16em;
+	color: #000000;
+}
+
+#body {
+	display: block;
+	margin: 1em auto;
+	height: 30em;
+	width: 70%;
+}
